@@ -61,25 +61,25 @@ Cada jugador solo debe colocar su símbolo una vez por turno y no debe ser sobre
 1. Extrae la carpeta "Ta-Te-Ti Alpha" y ejecuta "TaTeTi".
 
 ### ► Screans Shots
-**Menu Principal**
+   - **Menu Principal**
 ![Menu Principal](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Menu_Principal.png)
-**Partida Rapida**
+   - **Partida Rapida**
 ![Partida_Rapida](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Partida_Rapida.png)
-**Registro Usuario**
+   - **Registro Usuario**
 ![Registro_Usuario](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Registro_Usuario.png)
-**Nuevo Jugador**
+   - **Nuevo Jugador**
 ![Nuevo_Jugador](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Nuevo_Jugador.png)
-**Loggin**
+   - **Loggin**
 ![Loggin](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Loggin.png)
-**Campeonato**
+   - **Campeonato**
 ![Campeonato](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Campeonato.png)
-**Tabla Puntajes**
+   - **Tabla Puntajes**
 ![Tabla_Puntajes](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Tabla_Puntajes.png)
-**Tablero**
+   - **Tablero**
 ![Tablero](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Tablero.png)
-**Ganador**
+   - **Ganador**
 ![Ganador](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Ganador.png)
-**About**
+   - **About**
 ![About](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/About.png)
  
 ### Versiones de Python y QT
