@@ -3,7 +3,7 @@ Versión Alpha 1.0
 ### ► Introducción
 Revive la diversión del TaTeTi con este juego épico. Desafía a tus amigos, juega contra la IA y crea tu propio legado en la tabla de puntajes. TaTeTi o Tres consiste en un tablero de nueve casillas, donde los participantes colocan de forma alternada círculos (O) y equis (X) en un intento por alinear tres de sus símbolos de manera horizontal, vertical o diagonal antes que su oponente. 
 
-####¿Qué hace que TaTeTi sea tan especial?
+#### ¿Qué hace que TaTeTi sea tan especial?
 Modos de juego para todos: Humano vs Humano, Humano vs PC y Campeonato.
 Perfiles de jugador: Crea, personaliza y guarda tu progreso.
 Tabla de puntajes: Sigue tu rendimiento y el de tus amigos.
