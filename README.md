@@ -1,7 +1,14 @@
 ##								TaTeTi 
 Versión Alpha 1.0
 ### ► Introducción
-TaTeTi o Tres en Linea es un juego infantil que consiste en un tablero de nueve casillas, donde los participantes colocan de forma alternada círculos (O) y equis (X) en un intento por alinear tres de sus símbolos de manera horizontal, vertical o diagonal antes que su oponente.
+Revive la diversión del TaTeTi con este juego épico. Desafía a tus amigos, juega contra la IA y crea tu propio legado en la tabla de puntajes. TaTeTi o Tres consiste en un tablero de nueve casillas, donde los participantes colocan de forma alternada círculos (O) y equis (X) en un intento por alinear tres de sus símbolos de manera horizontal, vertical o diagonal antes que su oponente. 
+
+####¿Qué hace que TaTeTi sea tan especial?
+Modos de juego para todos: Humano vs Humano, Humano vs PC y Campeonato.
+Perfiles de jugador: Crea, personaliza y guarda tu progreso.
+Tabla de puntajes: Sigue tu rendimiento y el de tus amigos.
+Interfaz intuitiva: Fácil de usar para jugadores de todas las edades.
+
 ### ► Reglas:
 Cada jugador solo debe colocar su símbolo una vez por turno y no debe ser sobre una casilla ya jugada. En caso de que el jugador haga trampa el ganador será el otro. Se debe conseguir realizar una línea recta o diagonal por símbolo.
 
