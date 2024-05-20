@@ -60,6 +60,9 @@ Cada jugador solo debe colocar su símbolo una vez por turno y no debe ser sobre
 
 1. Extrae la carpeta "Ta-Te-Ti Alpha" y ejecuta "TaTeTi".
 
+### ► Screans Shots
+![Menu Principal](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Menu_Principal.png)
+
 ### Versiones de Python y QT
 
 - Python 3.8.5
