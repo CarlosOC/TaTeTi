@@ -69,20 +69,14 @@ Cada jugador solo puede colocar su símbolo una vez por turno y no sobre una cas
 
 ### Capturas de pantalla
 
-![Menu Principal](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Menu_Principal.png)
+| **Menu Principal** | **Partida Rapida** | **Registro Usuario** |
+|---|---|---|
+| ![Menu Principal](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Menu_Principal.png) | ![Partida_Rapida](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Partida_Rapida.png) | ![Registro_Usuario](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Registro_Usuario.png) |
 
-![Partida Rapida](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Partida_Rapida.png)
+| **Nuevo Jugador** | **Loggin** | **Campeonato** |
+|---|---|---|
+| ![Nuevo_Jugador](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Nuevo_Jugador.png) | ![Loggin](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Loggin.png) | ![Campeonato](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Campeonato.png) |
 
-![Registro Usuario](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Registro_Usuario.png)
-
-![Nuevo Jugador](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Nuevo_Jugador.png)
-
-![Loggin](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Loggin.png)
-
-![Campeonato](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Campeonato.png)
-
-![Tabla Puntajes](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Tabla_Puntajes.png)
-
-![Ganador](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Ganador.png)
-
-![About](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/About.png)
+| **Tabla Puntajes** | **Ganador** | **About** |
+|---|---|---|
+| ![Tabla_Puntajes](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Tabla_Puntajes.png) | ![Ganador](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Ganador.png) | ![About](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/About.png) |
