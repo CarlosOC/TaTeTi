@@ -66,3 +66,23 @@ Cada jugador solo puede colocar su símbolo una vez por turno y no sobre una cas
 
 - Python 3.8.5
 - PyQt 5
+
+### Capturas de pantalla
+
+![Menu Principal](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Menu_Principal.png)
+
+![Partida Rapida](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Partida_Rapida.png)
+
+![Registro Usuario](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Registro_Usuario.png)
+
+![Nuevo Jugador](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Nuevo_Jugador.png)
+
+![Loggin](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Loggin.png)
+
+![Campeonato](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Campeonato.png)
+
+![Tabla Puntajes](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Tabla_Puntajes.png)
+
+![Ganador](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Ganador.png)
+
+![About](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/About.png)
