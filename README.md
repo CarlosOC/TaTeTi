@@ -1,11 +1,11 @@
 ##								TaTeTi 
 Versión Alpha 1.0
-### Introducción
+### ► Introducción
 TaTeTi o Tres en Linea es un juego infantil que consiste en un tablero de nueve casillas, donde los participantes colocan de forma alternada círculos (O) y equis (X) en un intento por alinear tres de sus símbolos de manera horizontal, vertical o diagonal antes que su oponente.
-### Reglas:
+### ► Reglas:
 Cada jugador solo debe colocar su símbolo una vez por turno y no debe ser sobre una casilla ya jugada. En caso de que el jugador haga trampa el ganador será el otro. Se debe conseguir realizar una línea recta o diagonal por símbolo.
 
-### Librerías Utilizadas 
+### ► Librerías Utilizadas 
 
 - PyQt5
 - PyQt5.QtWidgets
@@ -17,7 +17,7 @@ Cada jugador solo debe colocar su símbolo una vez por turno y no debe ser sobre
 
 
 
-### Configuración inicial
+### ► Configuración inicial
 
 1. **Crear nuevo jugador:** Accede a la pestaña "Perfiles" y selecciona "Crear Perfil" para ingresar los datos del nuevo jugador.
    
@@ -25,7 +25,7 @@ Cada jugador solo debe colocar su símbolo una vez por turno y no debe ser sobre
 
 3. **Eliminar Jugador:** En la pestaña "Perfiles", selecciona "Eliminar", ingresa tu nick y contraseña, y luego elimina tu perfil.
 
-### Guía del producto
+### ► Guía del producto
 
 1. **Partida Rápida:**
    - **Humano vs Humano:** Ingresa los nicks de ambos jugadores y presiona "Jugar".
@@ -42,7 +42,7 @@ Cada jugador solo debe colocar su símbolo una vez por turno y no debe ser sobre
    - Empate: 1 Punto
    - Derrota: 0 Puntos
 
-### Instalación
+### ► Instalación
 
 1. **Descargar e instalar Python:**
    - Descarga el intérprete de Python desde python.org/downloads.
@@ -51,7 +51,7 @@ Cada jugador solo debe colocar su símbolo una vez por turno y no debe ser sobre
 2. **Descargar e instalar PyQt5:**
    - Abre una terminal (cmd) y escribe los comandos `pip install pyqt5` y `pip install pyqt5-tools`.
 
-### Ejecución 
+### ► Ejecución 
 
 1. Extrae la carpeta "Ta-Te-Ti Alpha" y ejecuta "TaTeTi".
 
