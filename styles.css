@@ -1,0 +1,194 @@
+QPushButton#QPushButton_Campeonato, #QPushButton_PartidaRapida
+{
+    font-size: 15px;
+    background:  rgb(45, 0, 97);
+    color: white;
+    border: 2px solid rgb(81, 206, 255);
+    border-radius:22px;
+    
+}
+
+QPushButton#QPushButton_Campeonato:hover, #QPushButton_PartidaRapida:hover 
+{
+
+    border: 3px solid skyblue;
+    
+}
+
+QWidget#centralwidget_main, #centralwidget_players, #centralwidget_partidas, #centralwidget_registro, #centralwidget_menu_campeonato, #MainWindow_tabla_puntaje, #centralwidget_tablero, #centralwidget_loggin
+{
+    
+    background-image: url("imagenes/retro-vaporwave-background-cyberpunk-laser-grid-80s-style-abstract-futuristic-landscape_87408-125.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+QTableWidget
+{
+    background-color: qlineargradient(spread:pad, x1:0.505682, y1:0, x2:0.528, y2:1, stop:0 rgba(34, 34, 34, 210));
+    color: rgb(255, 255, 255);
+    border: none;
+}
+
+QListWidget
+{
+    background-color: qlineargradient(spread:pad, x1:0.505682, y1:0, x2:0.528, y2:1, stop:0 rgba(34, 34, 34, 210));
+    color: rgb(255, 255, 255);
+    border: none;
+    
+}
+
+QSpinBox, QLineEdit
+{
+    background-color: qlineargradient(spread:pad, x1:0.505682, y1:0, x2:0.528, y2:1, stop:0 rgba(255, 255, 255, 0), stop:1 rgba(255, 255, 255, 0));
+    border: none;
+    border-bottom: 1px solid rgb(81, 206, 255);
+    color: white;
+}
+
+QLabel, QRadioButton
+{
+    color: white
+}
+
+QMenu, QMenuBar
+{
+    background-color: rgb(32, 32, 32);
+    color: white;
+}
+
+QHeaderView, QHeaderView::section {
+    color: white;
+    background-color: rgb(32, 32, 32);
+    font-size: 10px;
+}
+
+
+
+QWidget#widget_fondo
+{
+    background-color: qlineargradient(spread:pad, x1:0.505682, y1:0, x2:0.528, y2:1, stop:0 rgba(34, 34, 34, 210));
+    border-radius:20px;
+}
+
+
+QWidget#widget_eliminar, #centralwidget_eliminar
+{
+    background-color: qlineargradient(spread:pad, x1:0.505682, y1:0, x2:0.528, y2:1, stop:0 rgba(34, 34, 34, 240));
+}
+
+
+QPushButton#pushButton_1, #pushButton_2, #pushButton_3, #pushButton_4, #pushButton_5, #pushButton_6, #pushButton_7, #pushButton_8, #pushButton_9
+{
+    background: transparent;
+    border: 2px solid rgb(81, 206, 255);
+    border-radius:15px;
+    font-size: 60px;
+    color: tomato;
+}
+
+QPushButton#pushButton_1:hover, #pushButton_2:hover, #pushButton_3:hover, #pushButton_4:hover, #pushButton_5:hover, #pushButton_6:hover, #pushButton_7:hover, #pushButton_8:hover, #pushButton_9:hover
+{
+    
+    border: 3px solid skyblue; 
+}
+
+QPushButton#pushButton_Aceptar, #pushButton_Cancelar
+{
+    background:  rgb(45, 0, 97);
+    border: 3px solid rgb(81, 206, 255);
+    border-radius:15px;
+    color:  white;
+}
+
+QPushButton#pushButton_Aceptar:hover, #pushButton_Cancelar:hover
+{
+    border: 4px solid skyblue;
+}
+
+QPushButton#QPushButton_AgregarJugador, #QPushButton_CrearJugador, #QPushButton_QuitarJugador
+{
+    background:  rgb(45, 0, 97);
+    border: 2px solid rgb(81, 206, 255);
+    border-radius:12px;
+    color:  white;
+}
+
+QPushButton#QPushButton_AgregarJugador:hover, #QPushButton_CrearJugador:hover, #QPushButton_QuitarJugador:hover
+{
+    border: 3px solid skyblue;
+}
+
+QPushButton#QpushButton_CrearCampeonato_Jugar, #QPushButton_Cancelar
+{
+    background:  rgb(45, 0, 97);
+    border: 2px solid rgb(81, 206, 255);
+    border-radius:15px;
+    color:  white;
+}
+
+QPushButton#QpushButton_CrearCampeonato_Jugar:hover, #QPushButton_Cancelar:hover
+{
+    border: 3px solid skyblue;
+}
+
+QPushButton#QPushButton_dosjugadores, #QPushButton_vsPC
+{
+    background:  rgb(45, 0, 97);
+    border: 3px solid rgb(81, 206, 255);
+    border-radius:22px;
+    color:  white;
+}
+
+QPushButton#QPushButton_dosjugadores:hover, #QPushButton_vsPC:hover
+{
+    
+    border: 4px solid skyblue;
+}
+
+QPushButton#QpushButton_jugar, #QPushButton_Cerrar
+{
+    background:  rgb(45, 0, 97);
+    border: 3px solid rgb(81, 206, 255);
+    border-radius:25px;
+    color:  white;
+}
+QPushButton#QpushButton_jugar:hover, #QPushButton_Cerrar:hover
+{
+    border: 4px solid skyblue;
+}
+QPushButton#aceptar_QpushButton, #cancelar_QpushButton
+{
+    background:  rgb(45, 0, 97);
+    border: 2px solid rgb(81, 206, 255);
+    border-radius:15px;
+    color:  white;
+}
+
+QPushButton#aceptar_QpushButton:hover, #cancelar_QpushButton:hover
+{
+    border: 3px solid skyblue;
+}
+
+QMessageBox
+{
+    background-color: qlineargradient(spread:pad, x1:0.505682, y1:0, x2:0.528, y2:1, stop:0 rgba(34, 34, 34, 210));  
+}
+
+QPushButton#QPushButton_Cancelar, #QPushButton_Eliminar
+{
+    background:  rgb(45, 0, 97);
+    border: 2px solid rgb(81, 206, 255);
+    border-radius:15px;
+    color:  white;
+}
+
+QPushButton#QPushButton_Eliminar:hover
+{
+    border: 3px solid skyblue;
+}
+
+QLabel#label_tateti
+{
+    color: rgb(255, 83, 241);
+}

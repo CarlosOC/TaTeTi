@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>626</width>
+    <height>438</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>626</width>
+    <height>417</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>626</width>
+    <height>438</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>TATETI</string>
+  </property>
+  <widget class="QWidget" name="centralwidget_main">
+   <property name="minimumSize">
+    <size>
+     <width>626</width>
+     <height>417</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>626</width>
+     <height>417</height>
+    </size>
+   </property>
+   <widget class="QPushButton" name="QPushButton_PartidaRapida">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>170</y>
+      <width>200</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Kodchasan</family>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Partida Rápida</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="QPushButton_Campeonato">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>260</y>
+      <width>200</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Kodchasan</family>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true"/>
+    </property>
+    <property name="text">
+     <string>Campeonato</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_tateti">
+    <property name="geometry">
+     <rect>
+      <x>120</x>
+      <y>40</y>
+      <width>351</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Kodchasan</family>
+      <pointsize>48</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>TA TE TI</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <zorder>QPushButton_Campeonato</zorder>
+   <zorder>QPushButton_PartidaRapida</zorder>
+   <zorder>label_tateti</zorder>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>626</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuPerfiles">
+    <property name="title">
+     <string>Perfiles</string>
+    </property>
+    <addaction name="actionCrear_Perfil"/>
+    <addaction name="actionModificar_Perfil"/>
+    <addaction name="actionEliminar"/>
+   </widget>
+   <widget class="QMenu" name="menuTabla_de_Puntaje">
+    <property name="title">
+     <string>Puntajes</string>
+    </property>
+    <addaction name="actionVer_Tabla"/>
+   </widget>
+   <widget class="QMenu" name="menuAbout_US">
+    <property name="title">
+     <string>Help</string>
+    </property>
+    <addaction name="actionAbout_US"/>
+   </widget>
+   <addaction name="menuPerfiles"/>
+   <addaction name="menuTabla_de_Puntaje"/>
+   <addaction name="menuAbout_US"/>
+  </widget>
+  <action name="actionCrear_Perfil">
+   <property name="text">
+    <string>Crear Perfil</string>
+   </property>
+  </action>
+  <action name="actionModificar_Perfil">
+   <property name="text">
+    <string>Modificar Perfil</string>
+   </property>
+  </action>
+  <action name="actionEliminar">
+   <property name="text">
+    <string>Eliminar</string>
+   </property>
+  </action>
+  <action name="actionVer_Tabla">
+   <property name="text">
+    <string>Ver Tabla</string>
+   </property>
+  </action>
+  <action name="actionAbout_US">
+   <property name="text">
+    <string>About US</string>
+   </property>
+  </action>
+  <action name="actionManual_de_Usuario">
+   <property name="text">
+    <string>Manual de Usuario</string>
+   </property>
+  </action>
+ </widget>
+ <resources>
+  <include location="../../imagenes/test.qrc"/>
+ </resources>
+ <connections/>
+</ui>
