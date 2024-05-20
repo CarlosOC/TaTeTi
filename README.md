@@ -22,8 +22,6 @@ Cada jugador solo debe colocar su símbolo una vez por turno y no debe ser sobre
 - Sqlite3
 - Random 
 
-
-
 ### ► Configuración inicial
 
 1. **Crear nuevo jugador:** Accede a la pestaña "Perfiles" y selecciona "Crear Perfil" para ingresar los datos del nuevo jugador.
