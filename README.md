@@ -1,4 +1,4 @@
-##								Tateti 2020 Versión Alpha 1.0
+##								Tateti Versión Alpha 1.0
 ### Introducción
 TaTeTi o Tres en Linea es un juego infantil que consiste en un tablero de nueve casillas, donde los participantes colocan de forma alternada círculos (O) y equis (X) en un intento por alinear tres de sus símbolos de manera horizontal, vertical o diagonal antes que su oponente.
 ### Reglas:
