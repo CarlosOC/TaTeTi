@@ -1,19 +1,21 @@
-##								TaTeTi 
-Versión Alpha 1.0
-### ► Introducción
-Revive la diversión del TaTeTi con este juego épico. Desafía a tus amigos, juega contra la IA y crea tu propio legado en la tabla de puntajes. TaTeTi o Tres consiste en un tablero de nueve casillas, donde los participantes colocan de forma alternada círculos (O) y equis (X) en un intento por alinear tres de sus símbolos de manera horizontal, vertical o diagonal antes que su oponente. 
+# TaTeTi 
+## Versión Alpha 1.0
 
-#### ¿Qué hace que TaTeTi sea tan especial?
-- Modos de juego para todos: Humano vs Humano, Humano vs PC y Campeonato.
-- Perfiles de jugador: Crea, personaliza y guarda tu progreso.
-- Tabla de puntajes: Sigue tu rendimiento y el de tus amigos.
-- Interfaz intuitiva: Fácil de usar para jugadores de todas las edades.
+![Tablero](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Tablero.png)
 
-### ► Reglas:
-Cada jugador solo debe colocar su símbolo una vez por turno y no debe ser sobre una casilla ya jugada. En caso de que el jugador haga trampa el ganador será el otro. Se debe conseguir realizar una línea recta o diagonal por símbolo.
+### Introducción
+Revive la diversión del TaTeTi con este juego épico. Desafía a tus amigos, juega contra la IA y crea tu propio legado en la tabla de puntajes. TaTeTi o Tres en línea consiste en un tablero de nueve casillas, donde los jugadores colocan de forma alternada círculos (O) y equis (X) en un intento por alinear tres de sus símbolos de manera horizontal, vertical o diagonal antes que su oponente.
 
-### ► Librerías Utilizadas 
+#### Características destacadas:
+- **Modos de juego variados:** Humano vs Humano, Humano vs PC y Campeonato.
+- **Perfiles de jugador:** Crea, personaliza y guarda tu progreso.
+- **Tabla de puntajes:** Sigue tu rendimiento y el de tus amigos.
+- **Interfaz intuitiva:** Fácil de usar para jugadores de todas las edades.
 
+### Reglas del juego
+Cada jugador solo puede colocar su símbolo una vez por turno y no sobre una casilla ya jugada. Se debe conseguir realizar una línea recta o diagonal con tres de sus símbolos para ganar la partida.
+
+### Librerías Utilizadas 
 - PyQt5
 - PyQt5.QtWidgets
 - PyQt5.QtMultimedia
@@ -22,7 +24,7 @@ Cada jugador solo debe colocar su símbolo una vez por turno y no debe ser sobre
 - Sqlite3
 - Random 
 
-### ► Configuración inicial
+### Configuración inicial
 
 1. **Crear nuevo jugador:** Accede a la pestaña "Perfiles" y selecciona "Crear Perfil" para ingresar los datos del nuevo jugador.
    
@@ -30,7 +32,7 @@ Cada jugador solo debe colocar su símbolo una vez por turno y no debe ser sobre
 
 3. **Eliminar Jugador:** En la pestaña "Perfiles", selecciona "Eliminar", ingresa tu nick y contraseña, y luego elimina tu perfil.
 
-### ► Guía del producto
+### Guía del producto
 
 1. **Partida Rápida:**
    - **Humano vs Humano:** Ingresa los nicks de ambos jugadores y presiona "Jugar".
@@ -47,43 +49,20 @@ Cada jugador solo debe colocar su símbolo una vez por turno y no debe ser sobre
    - Empate: 1 Punto
    - Derrota: 0 Puntos
 
-### ► Instalación
+### Instalación
 
 1. **Descargar e instalar Python:**
-   - Descarga el intérprete de Python desde python.org/downloads.
+   - Descarga el intérprete de Python desde [python.org/downloads](https://www.python.org/downloads/).
    - Instálalo como administrador, marcando la opción "Install launcher for all users" y "Add Python 3.8 (o la versión que descargaste) to PATH".
 
 2. **Descargar e instalar PyQt5:**
    - Abre una terminal (cmd) y escribe los comandos `pip install pyqt5` y `pip install pyqt5-tools`.
 
-### ► Ejecución 
+### Ejecución 
 
 1. Extrae la carpeta "Ta-Te-Ti Alpha" y ejecuta "TaTeTi".
 
-### ► Screans Shots
-   - **Menu Principal**
-![Menu Principal](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Menu_Principal.png)
-   - **Partida Rapida**
-![Partida_Rapida](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Partida_Rapida.png)
-   - **Registro Usuario**
-![Registro_Usuario](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Registro_Usuario.png)
-   - **Nuevo Jugador**
-![Nuevo_Jugador](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Nuevo_Jugador.png)
-   - **Loggin**
-![Loggin](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Loggin.png)
-   - **Campeonato**
-![Campeonato](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Campeonato.png)
-   - **Tabla Puntajes**
-![Tabla_Puntajes](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Tabla_Puntajes.png)
-   - **Tablero**
-![Tablero](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Tablero.png)
-   - **Ganador**
-![Ganador](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/Ganador.png)
-   - **About**
-![About](https://github.com/CarlosOC/TaTeTi/blob/main/ScreenShot/About.png)
- 
 ### Versiones de Python y QT
 
 - Python 3.8.5
 - PyQt 5
-
