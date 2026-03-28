@@ -86,7 +86,7 @@ Cada jugador solo puede colocar su símbolo una vez por turno y no sobre una cas
 Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo:
 
 - Correo electrónico: carlosoviedolr@gmail.com
-- Linkedin: [https://www.linkedin.com/in/carlosnicolasoviedocodigoni/]
+- Linkedin: https://www.linkedin.com/in/carlosnicolasoviedocodigoni/
 
 ¡Espero que disfrutes trabajando en estos ejercicios tanto como yo disfruto enseñándolos!
 
